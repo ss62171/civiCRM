@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/hello</path>
+    <page_callback>CRM_Helloworld_Page_Hello</page_callback>
+    <title>Hello</title>
+    <access_arguments>access CiviCRM</access_arguments>
+    <access_arguments>1</access_arguments>
+    <access_callback>1</access_callback>
+    <is_public>true</is_public>
+  </item>
+</menu>
